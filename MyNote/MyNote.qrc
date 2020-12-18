@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/MyNote">
+        <file>Resources/about.png</file>
+        <file>Resources/open.png</file>
+        <file>Resources/save.png</file>
+        <file>Resources/font.png</file>
+        <file>Resources/replace.png</file>
+    </qresource>
+</RCC>
